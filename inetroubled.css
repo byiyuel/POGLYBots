@@ -1,0 +1,84 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Montserrat Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
+
+  <!-- Changes this to your bot's name -->
+  <title>Policy</title>
+
+  <!-- Change the content attribute's value to your bot's description -->
+  <meta name="description" content="Policy is a bot that help servers owners with advanced moderation system!">
+
+  <!-- Change the content attribute's value to your name -->
+  <meta name="author" content="toilatiba#0001">
+
+  <link rel="stylesheet" href="styles/theTrendingStyle.css">
+  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/css/all.css" />
+
+</head>
+
+<body class="bg-shinyGray overflow-x-hidden">
+  <nav id="navigationBar" class="flex flex-row items-center justify-between p-6 bg-sweetBlack">
+    <div class="left flex flex-row items-center ml-10 md:ml-20 text-white">
+      <img src="images/botLogo.png" width="48px" height="48px" class="mr-2 hidden md:inline pointer-events-none noselect" />
+      <a href="index.html" class="mx-4 text-xl hover:text-blurple">Home</a>
+      <a href="moderation.html" class="mx-4 text-xl hover:text-blurple hidden md:inline">Moderation</a>
+      <a href="entertainment.html" class="mx-4 text-xl hover:text-blurple hidden md:inline">Entertainment</a>
+      <a href="information.html" class="mx-4 text-xl hover:text-blurple hidden md:inline">Information</a>
+		  <a href="support.html" class="mx-4 text-xl hover:text-blurple hidden md:inline">Support Server</a>
+    </div>
+    <div class="right mr-10 md:mr-20">
+      <a href="https://discordapp.com/oauth2/authorize?client_id=874490156386779196&scope=bot&permissions=268446806" target="_blank" class="px-8 py-3 whitespace-no-wrap bg-blurple text-white rounded-lg text-xl font-semibold hover:bg-beautyPurple"><i class="fab fa-discord mr-1"></i> Add to Discord</a>
+    </div>
+  </nav>
+
+
+  <div id="container" class="flex flex-col items-center justify-center">
+    <div class="flex flex-col items-center justify-center pt-40 text-center">
+      <span class="text-2xl md:text-5xl font-semibold text-white"> Changing the way servers work</span>
+      <span class="text-gray-400 text-lg md:text-xl max-w-xl font-light">Helping servers grow exponentially with a simple solution. Make your server active and entertain your community with a simple solution - <b>a single discord bot</b>!</span>
+      <div class="flex flex-col md:flex-row mt-8">
+        <a href="https://discordapp.com/oauth2/authorize?client_id=874490156386779196&scope=bot&permissions=268446806" target="_blank" class="text-2xl hvr-grow bg-blurple p-4 md:px-8 mx-4 my-4 rounded-lg">Add to Discord</e>
+        <a href="https://discord.gg/Byjh8C9PpW" target="_blank" class="text-2xl hvr-grow text-white bg-sweetBlack p-4 md:px-8 mx-4 my-4 rounded-lg border-blurple border-2">Join the Support Server</a>
+      </div>
+    </div>
+		   </head>
+		<body>
+     <pre>
+
+		
+
+
+
+ <div id="container" class="flex flex-col items-center justify-center">
+    <div class="flex flex-col items-center justify-center pt-40 text-center">
+      <span class="text-2xl md:text-5xl font-semibold              text-white"></span>
+		      <div class="flex flex-col md:flex-row mt-8">
+        <a href="https://discordapp.com/oauth2/authorize?client_id=874490156386779196&scope=bot&permissions=268446806" class="text-2xl hvr-grow bg-blurple p-4 md:px-8 mx-4 my-4 rounded-lg">45+ Servers</a>
+        <a href="https://discord.gg/Byjh8C9PpW" class="text-2xl hvr-grow bg-blurple p-4 md:px-8 mx-4 my-4 rounded-lg">23,000+ Users</a>
+		    <a href="https://discord.gg/Byjh8C9PpW" class="text-2xl hvr-grow bg-blurple p-4 md:px-8 mx-4 my-4 rounded-lg">5515+ Channels</a>
+      </div>
+		   </head>
+		<body>
+     <pre>
+
+
+
+
+
+
+    <div class="flex flex-row items-center justify-center mb-10">
+      <span class="text-lg text-gray-400 font-semibold">Copyright © Policy Discord Bot</span>
+    </div>
+  </div>
+
+</body>
+
+</html>
